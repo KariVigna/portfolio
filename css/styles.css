@@ -10,6 +10,10 @@
     border-style: solid;
 }
 
+body {
+    background-color: lightblue;
+}
+
 .sections {
     width: 25%;
     font-family: sans-serif;
@@ -23,6 +27,8 @@
 .image {
     margin-right: auto ;
     margin-left: auto ;
+    margin-top: 30px;
+    margin-bottom: 30px;
     padding: 20px ;
     border: 10px;
     border-color: blueviolet;
