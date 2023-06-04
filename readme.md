@@ -19,8 +19,7 @@ _This simple single-page interface features minimal html in-line styling as well
 * _Clone this repository to your desktop_
 * _Navigate to the top level of the directory_
 * _Open portfolio/index.html in your browser_
-Alternatively:
-* _Visit karivigna.github.io/portfolio in your web browser_
+* _Or: visit karivigna.github.io/portfolio in your web browser_
 
 ## Known Bugs
 
@@ -30,4 +29,4 @@ Alternatively:
 
 _MIT_
 
-Copyright (c) _June 3 2023_ _Kari Vigna_
+Copyright (c) _June 4 2023_ _Kari Vigna_
